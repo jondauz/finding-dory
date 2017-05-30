@@ -1,0 +1,30 @@
+$largeWidth: 600px;
+$xlargeWidth: 1200px;
+$xxlargeWidth: 1640px;
+
+@mixin large {
+  @media (min-width: #{$largeWidth}) {
+    @content;
+  }
+}
+
+@mixin xlarge {
+  @media (min-width: #{$xlargeWidth}) {
+    @content;
+  }
+}
+
+
+@mixin xxlarge {
+  @media (min-width: #{$xxlargeWidth}) {
+    @content;
+  }
+}
+
+@mixin clearfix {
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overall>
+	<TitleScreen>
+		<MovieLogo>../images/movie-logo-greece.png</MovieLogo>
+		<TextUnderLogo><![CDATA[ <span class="greek-font-size">1 ΣΕΠΤΕΜΒΡΙΟΥ <br/>ΚΑΙ ΣΕ 3D</span> ]]></TextUnderLogo>
+		<GameLogo>../images/game-logo.png</GameLogo>
+		<ViewTrailerButton>ΔΕΣ ΤΟ TRAILER</ViewTrailerButton>
+		<ViewTrailerLink>https://www.youtube.com/watch?v=Y6ACpcdIjEQ</ViewTrailerLink>
+		<VisitSiteButton>ΜΠΕΣ ΣΤΟ SITE</VisitSiteButton>
+		<VisitSiteLink>http://tainies.disney.gr/finding-dory</VisitSiteLink>
+		<HowToPlayButton>ΠΩΣ ΝΑ ΠΑΙΞΕΙΣ</HowToPlayButton>
+		<FacebookLink>https://www.facebook.com/DisneyGreece</FacebookLink>
+		<TwitterLink>https://twitter.com/findingdory</TwitterLink>
+		<GooglePlusLink></GooglePlusLink>
+		<InstagramLink></InstagramLink>
+		<MovieRating>PG</MovieRating>
+		<Loading>Loading...</Loading>
+	</TitleScreen>
+	<HowToPlayScreen>
+		<Title>ΠΩΣ ΝΑ ΠΑΙΞΕΙΣ</Title>
+		<Introduction>Βοήθησε την Ντόρι να περάσει τα εμπόδια καθώς κολυμπά μέσα στον ωκεανό!</Introduction>
+		<Directions>
+			<![CDATA[
+				Κανοντας κλικ με το ποντίκι ή πατώντας στην οθόνη βοηθάς την Ντόρι να συνεχίσει να κολυμπά!
+			]]>
+		</Directions>
+		<ReturnToGameButton>ΕΠΙΣΤΡΟΦΗ ΣΤΟ ΠΑΙΧΝΙΔΙ</ReturnToGameButton>
+	</HowToPlayScreen>
+	<GameScreen>
+		<StartButton>ΠΑΙΞΕ</StartButton>
+		<RestartButton>ΠΑΙΞΕ ΞΑΝΑ</RestartButton>
+		<Meters>METPA</Meters>
+	</GameScreen>
+	<ScoreScreen>
+		<Title>Συγχαρητήρια!</Title>
+		<Meters>μέτρα </Meters>
+		<Description>Βοήθησες την Ντόρι να κολυμπήσει</Description>
+		<ShareHeader>Μοιράσου το σκορ σου!</ShareHeader>
+		<ShareText>Μόλις βοήθησα την Ντόρι να κολυμπήσει</ShareText>
+		<SharingURL>www.dorykeepsswimming.com!</SharingURL>
+		<AfterText>%20στο%20</AfterText>
+	</ScoreScreen>
+</Overall>

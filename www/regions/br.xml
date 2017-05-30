@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overall>
+	<TitleScreen>
+		<MovieLogo>../images/movie-logo-brazil.png</MovieLogo>
+		<TextUnderLogo>30 DE JUNHO NOS CINEMAS</TextUnderLogo>
+		<GameLogo>../images/game-logo-portugese.png</GameLogo>
+		<ViewTrailerButton>ASSISTA AO TRAILER</ViewTrailerButton>
+		<ViewTrailerLink>http://videos.disney.com.br/ver/chegou-o-novo-trailer-de-procurando-dory-52d279f8842af45d9d603102</ViewTrailerLink>
+		<VisitSiteButton>Visite o site</VisitSiteButton>
+		<VisitSiteLink>http://filmes.disney.com.br/procurando-dory</VisitSiteLink>
+		<HowToPlayButton>Como jogar</HowToPlayButton>
+		<FacebookLink></FacebookLink>
+		<TwitterLink></TwitterLink>
+		<GooglePlusLink></GooglePlusLink>
+		<InstagramLink></InstagramLink>
+		<MovieRating>PG</MovieRating>
+		<Loading>Loading...</Loading>
+	</TitleScreen>
+	<HowToPlayScreen>
+		<Title>Como jogar</Title>
+		<Introduction>Ajude Dory a navegar por obstáculos enquanto nada pelo oceano!</Introduction>
+		<Directions>
+			<![CDATA[
+				Para ajudar Dory a continuar nadando clique com o mouse ou toque na tela
+			]]>
+		</Directions>
+		<ReturnToGameButton>Voltar ao jogo</ReturnToGameButton>
+	</HowToPlayScreen>
+	<GameScreen>
+		<StartButton>Começar jogo</StartButton>
+		<RestartButton>Jogar novamente</RestartButton>
+		<Meters>METROS</Meters>
+	</GameScreen>
+	<ScoreScreen>
+		<Title>Parabéns!</Title>
+		<Meters>Metros</Meters>
+		<Description>Você ajudou Dory a nadar</Description>
+		<ShareHeader>Compartilhe sua pontuação!</ShareHeader>
+		<ShareText>Eu ajudei a Dory a nadar</ShareText>
+		<SharingURL>www.disney.com.br</SharingURL>
+		<AfterText>%20no%20</AfterText>
+	</ScoreScreen>
+</Overall>

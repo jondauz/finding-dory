@@ -1,0 +1,196 @@
+{"frames": {
+
+"dots":
+{
+	"frame": {"x":0,"y":0,"w":190,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":190,"h":10},
+	"sourceSize": {"w":190,"h":10}
+},
+"dory-2":
+{
+	"frame": {"x":200,"y":0,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":63},
+	"sourceSize": {"w":60,"h":63}
+},
+"dory-1":
+{
+	"frame": {"x":270,"y":0,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":63},
+	"sourceSize": {"w":60,"h":63}
+},
+"dory-3":
+{
+	"frame": {"x":340,"y":0,"w":60,"h":63},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":60,"h":63},
+	"sourceSize": {"w":60,"h":63}
+},
+"twitter-hover":
+{
+	"frame": {"x":410,"y":0,"w":82,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":82},
+	"sourceSize": {"w":82,"h":82}
+},
+"twitter":
+{
+	"frame": {"x":502,"y":0,"w":82,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":82},
+	"sourceSize": {"w":82,"h":82}
+},
+"facebook-hover":
+{
+	"frame": {"x":594,"y":0,"w":82,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":82},
+	"sourceSize": {"w":82,"h":82}
+},
+"facebook":
+{
+	"frame": {"x":686,"y":0,"w":82,"h":82},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":82,"h":82},
+	"sourceSize": {"w":82,"h":82}
+},
+"obstacle-bottle":
+{
+	"frame": {"x":778,"y":0,"w":220,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":220,"h":60},
+	"sourceSize": {"w":220,"h":60}
+},
+"obstacle-coral-5":
+{
+	"frame": {"x":1008,"y":0,"w":185,"h":90},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":185,"h":90},
+	"sourceSize": {"w":185,"h":90}
+},
+"button-hover":
+{
+	"frame": {"x":0,"y":100,"w":301,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":81},
+	"sourceSize": {"w":301,"h":81}
+},
+"button":
+{
+	"frame": {"x":311,"y":100,"w":301,"h":81},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":301,"h":81},
+	"sourceSize": {"w":301,"h":81}
+},
+"obstacle-sixpackrings":
+{
+	"frame": {"x":622,"y":100,"w":175,"h":150},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":175,"h":150},
+	"sourceSize": {"w":175,"h":150}
+},
+"obstacle-coral-4":
+{
+	"frame": {"x":807,"y":100,"w":150,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":190},
+	"sourceSize": {"w":150,"h":190}
+},
+"obstacle-becky":
+{
+	"frame": {"x":967,"y":100,"w":230,"h":190},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":230,"h":190},
+	"sourceSize": {"w":230,"h":190}
+},
+"obstacle-beachball":
+{
+	"frame": {"x":0,"y":300,"w":300,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":160},
+	"sourceSize": {"w":300,"h":160}
+},
+"obstacle-seaweed":
+{
+	"frame": {"x":310,"y":300,"w":400,"h":165},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":400,"h":165},
+	"sourceSize": {"w":400,"h":165}
+},
+"obstacle-coral-1":
+{
+	"frame": {"x":720,"y":300,"w":325,"h":310},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":325,"h":310},
+	"sourceSize": {"w":325,"h":310}
+},
+"obstacle-snorkel":
+{
+	"frame": {"x":0,"y":620,"w":425,"h":280},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":425,"h":280},
+	"sourceSize": {"w":425,"h":280}
+},
+"obstacle-coral-2":
+{
+	"frame": {"x":435,"y":620,"w":570,"h":225},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":570,"h":225},
+	"sourceSize": {"w":570,"h":225}
+},
+"obstacle-crate":
+{
+	"frame": {"x":0,"y":910,"w":1000,"h":365},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1000,"h":365},
+	"sourceSize": {"w":1000,"h":365}
+},
+"obstacle-coral-3":
+{
+	"frame": {"x":0,"y":1285,"w":640,"h":590},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":640,"h":590},
+	"sourceSize": {"w":640,"h":590}
+},
+"obstacle-coral-6":
+{
+	"frame": {"x":650,"y":1285,"w":637,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":637,"h":600},
+	"sourceSize": {"w":637,"h":600}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "texture-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1287,"h":1885},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:071f4f685f5eb712f9079a1d9a8d4348:0008c3638a1f27c57d87b3505838ce14:b7296fa688fdfff8aa6aef8c7f033ab5$"
+}
+}

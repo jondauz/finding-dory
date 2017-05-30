@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overall>
+	<TitleScreen>
+		<MovieLogo>../images/movie-logo-latam.png</MovieLogo>
+		<TextUnderLogo>Sólo en cines</TextUnderLogo>
+		<GameLogo>../images/game-logo-latam.png</GameLogo>
+		<ViewTrailerButton>Mira el tráiler</ViewTrailerButton>
+		<ViewTrailerLink>http://videos.disneylatino.com/ver/buscando-a-dory-nuevo-trailer-5340f57bae78bfb7080124bf</ViewTrailerLink>
+		<VisitSiteButton>Visita el sitio</VisitSiteButton>
+		<VisitSiteLink>http://peliculas.disneylatino.com/buscando-a-dory</VisitSiteLink>
+		<HowToPlayButton>Cómo jugar</HowToPlayButton>
+		<FacebookLink>https://www.facebook.com/DisneyStudiosLA/</FacebookLink>
+		<TwitterLink>https://www.twitter.com/DisneyStudiosLA/</TwitterLink>
+		<GooglePlusLink>#</GooglePlusLink>
+		<InstagramLink>#</InstagramLink>
+		<MovieRating>PG</MovieRating>
+		<Loading>Loading...</Loading>
+	</TitleScreen>
+	<HowToPlayScreen>
+		<Title>Cómo jugar</Title>
+		<Introduction>¡Ayuda a Dory a evitar los obstáculos mientras nada en el océano!</Introduction>
+		<Directions>
+			<![CDATA[
+				¡Para ayudar a Dory a nadar, haz click en el mouse o toca la pantalla!
+			]]>
+		</Directions>
+		<ReturnToGameButton>Regresar al juego</ReturnToGameButton>
+	</HowToPlayScreen>
+	<GameScreen>
+		<StartButton>Comenzar a jugar</StartButton>
+		<RestartButton>Jugar otra vez</RestartButton>
+		<Meters>METROS</Meters>
+	</GameScreen>
+	<ScoreScreen>
+		<Title>¡Felicitaciones!</Title>
+		<Meters>Metros</Meters>
+		<Description>Ayudaste a Dory a nadar</Description>
+		<ShareHeader>¡Comparte tu puntaje!</ShareHeader>
+		<ShareText>¡Ayudé a Dory a nadar</ShareText>
+		<SharingURL>disneylatino.com!</SharingURL>
+		<AfterText>%20en%20</AfterText>
+	</ScoreScreen>
+</Overall>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overall>
+	<TitleScreen>
+		<MovieLogo>../images/movie-logo.png</MovieLogo>
+		<TextUnderLogo></TextUnderLogo>
+		<GameLogo>../images/game-logo-dutch.png</GameLogo>
+		<ViewTrailerButton>Bekijk de trailer</ViewTrailerButton>
+		<ViewTrailerLink>https://www.youtube.com/watch?v=_hC88bPpLa8</ViewTrailerLink>
+		<VisitSiteButton>Bezoek de website</VisitSiteButton>
+		<VisitSiteLink>http://films.disney.nl/finding-dory</VisitSiteLink>
+		<HowToPlayButton>Instructies</HowToPlayButton>
+		<FacebookLink>http://facebook.com/DisneyNL</FacebookLink>
+		<TwitterLink>http://twitter.com/DisneyNL</TwitterLink>
+		<GooglePlusLink>https://plus.google.com/103975337181399609435</GooglePlusLink>
+		<InstagramLink> https://www.instagram.com/disneynl</InstagramLink>
+		<MovieRating>PG</MovieRating>
+		<Loading>Laden...</Loading>
+	</TitleScreen>
+	<HowToPlayScreen>
+		<Title>Instructies</Title>
+		<Introduction>Help Dory te navigeren tussen de obstakels door terwijl ze door de oceaan zwemt!</Introduction>
+		<Directions>
+			<![CDATA[
+				Klik met je muis of tap op het scherm om Dory te laten zwemmen!
+			]]>
+		</Directions>
+		<ReturnToGameButton>Terug naar het spel</ReturnToGameButton>
+	</HowToPlayScreen>
+	<GameScreen>
+		<StartButton>START</StartButton>
+		<RestartButton>Nog een keer spelen</RestartButton>
+		<Meters>METERS</Meters>
+	</GameScreen>
+	<ScoreScreen>
+		<Title>Gefeliciteerd!</Title>
+		<Meters>Meters</Meters>
+		<Description>Dankzij jou zwom Dory</Description>
+		<ShareHeader>Deel je score!</ShareHeader>
+		<ShareText>Ik heb Dory</ShareText>
+		<SharingURL>www.dorykeepsswimming.com!</SharingURL>
+		<AfterText>%20laten zwemmen op%20</AfterText>
+	</ScoreScreen>
+</Overall>

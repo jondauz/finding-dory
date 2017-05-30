@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overall>
+	<TitleScreen>
+		<MovieLogo>../images/movie-logo.png</MovieLogo>
+		<TextUnderLogo>SEE IT IN CINEMAS</TextUnderLogo>
+		<GameLogo>../images/game-logo.png</GameLogo>
+		<ViewTrailerButton>Watch Trailer</ViewTrailerButton>
+		<ViewTrailerLink>https://www.youtube.com/watch?v=lgAE8PbuzSU</ViewTrailerLink>
+		<VisitSiteButton>Visit Site</VisitSiteButton>
+		<VisitSiteLink>http://movies.disney.sg/finding-dory</VisitSiteLink>
+		<HowToPlayButton>How To Play</HowToPlayButton>
+		<FacebookLink>https://www.facebook.com/disneystudiosSG/</FacebookLink>
+		<TwitterLink>https://twitter.com/findingdory</TwitterLink>
+		<GooglePlusLink>https://plus.google.com/103975337181399609435</GooglePlusLink>
+		<InstagramLink>https://www.instagram.com/pixarfindingdory/</InstagramLink>
+		<MovieRating></MovieRating>
+		<Loading>Loading...</Loading>
+	</TitleScreen>
+	<HowToPlayScreen>
+		<Title>How To Play</Title>
+		<Introduction>Help Dory navigate around obstacles as she swims through the ocean!</Introduction>
+		<Directions>
+			<![CDATA[
+				<strong>Clicking</strong> the mouse or <strong>tapping</strong> the screen helps keep Dory swimming!
+			]]>
+		</Directions>
+		<ReturnToGameButton>Return To Game</ReturnToGameButton>
+	</HowToPlayScreen>
+	<GameScreen>
+		<StartButton>START GAME</StartButton>
+		<RestartButton>PLAY AGAIN</RestartButton>
+		<Meters>METERS</Meters>
+	</GameScreen>
+	<ScoreScreen>
+		<Title>Congratulations!</Title>
+		<Meters>Meters</Meters>
+		<Description>You helped Dory swim</Description>
+		<ShareHeader>Share your score!</ShareHeader>
+		<ShareText>I just helped Dory swim</ShareText>
+		<SharingURL>www.dorykeepsswimming.com</SharingURL>
+		<AfterText>!%20</AfterText>
+	</ScoreScreen>
+</Overall>
